@@ -1,0 +1,1 @@
+export type { IThing } from './IThing'
